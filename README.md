@@ -1,10 +1,8 @@
-# xstream_security_issues
+# Overview
 
-This contains the sample code snippets to reproduce the security issues http://x-stream.github.io/CVE-2013-7285.html and http://x-stream.github.io/CVE-2017-7957.html on a Thoughtworks XStream 1.4.9 maven plugin.
+This repository contains the junit tests to demonstrate how XStream v1.4.9 respond to the security issues http://x-stream.github.io/CVE-2013-7285.html and http://x-stream.github.io/CVE-2017-7957.html.
 
-Issue code snippet and a possible fix is organised under respective folder under src/main/java/ for the security issue. Each does contain a Readme.txt to guide.
-
-A summary is as follows:-
+# Summary on behaviour through v1.4.7 to v1.4.11.1
 
 A way to deal with CVE_2013_7285 is provided through v1.4.7. But issue again is showed up while fixing CVE-2017-7957 in v1.4.10.
 
