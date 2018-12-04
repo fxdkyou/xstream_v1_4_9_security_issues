@@ -13,7 +13,7 @@ So v1.4.11 is released to fix the broken issue.
 However, it broke the java runtime environments below JDK 8.0. So, v1.4.11.1 is released to address that.
 
 
-#References
+# References
 
 1. http://x-stream.github.io/
 2. http://x-stream.github.io/changes.html
