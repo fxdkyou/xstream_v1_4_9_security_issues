@@ -2,7 +2,7 @@
 
 This contains the sample code snippets to reproduce the security issues http://x-stream.github.io/CVE-2013-7285.html and http://x-stream.github.io/CVE-2017-7957.html on a Thoughtworks XStream 1.4.9 maven plugin.
 
-Issue code snippet and a possible fix is organised under respective folder for the security issue.
+Issue code snippet and a possible fix is organised under respective folder under src/main/java/ for the security issue. Each does contain a Readme.txt to guide.
 
 A summary is as follows:-
 
