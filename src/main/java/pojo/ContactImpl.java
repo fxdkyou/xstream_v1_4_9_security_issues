@@ -1,4 +1,4 @@
-package CVE_2013_7285.variant1.pojo;
+package pojo;
 
 public class ContactImpl implements Contact {
     int id;

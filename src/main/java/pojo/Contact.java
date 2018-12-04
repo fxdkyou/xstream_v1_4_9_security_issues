@@ -1,4 +1,4 @@
-package CVE_2013_7285.variant1.pojo;
+package pojo;
 
 public interface Contact {
     int getId();
